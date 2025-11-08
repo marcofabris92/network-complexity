@@ -4,6 +4,7 @@ Code reproducing simulations in the paper "How Complex is a Complex Network? Ins
 Authors: G. Baggio and M. Fabris
 Publihed in the IEEE Control Systems Letters
 Date of Publication: 23 June 2025 
+Link: https://ieeexplore.ieee.org/abstract/document/11047538
 DOI: 10.1109/LCSYS.2025.3582197
 
 

@@ -1,11 +1,23 @@
 # network-complexity
 Code reproducing simulations in the paper "How Complex is a Complex Network? Insights from Linear Systems Theory".
 
-Authors: G. Baggio and M. Fabris
-Publihed in the IEEE Control Systems Letters
-Date of Publication: 23 June 2025 
-Link: https://ieeexplore.ieee.org/abstract/document/11047538
-DOI: 10.1109/LCSYS.2025.3582197
+
+__________________________________________________________________________
+Authors:
+- Prof. Giacomo Baggio*,    University of Padua,         <giacomo.baggio@unipd.it>
+- Dr.   Marco Fabris**,     University of Padua,         <marco.fabris.1@unipd.it>
+
+ \* G. Baggio formalized and developed the theorical part of this work.
+ 
+ \** M. Fabris is the main software developer of these MatLab scripts.
+
+
+__________________________________________________________________________
+- Publihed in the IEEE Control Systems Letters
+- Date of Publication: 23 June 2025 
+- Link: https://ieeexplore.ieee.org/abstract/document/11047538
+- DOI: 10.1109/LCSYS.2025.3582197
+
 
 
 <ins>MAIN_naive_k_fixed_n_100__9plots:</ins>
